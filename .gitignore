@@ -2,3 +2,5 @@ node_modules/
 yarn.lock
 .idea/
 *.iml
+.*.sw*
+example.png
